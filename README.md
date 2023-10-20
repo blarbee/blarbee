@@ -1,6 +1,6 @@
 - 🧙‍♀️ Hi, I’m @blarbee (derogatory)
 - ꩜ I’m interested in cs (hacking your webcam)
-- 🌱 I’m currently learning...cs 
+- 🪻 I’m currently learning...cs 
 - 💜 I’m looking...staring even
 
 <!---
